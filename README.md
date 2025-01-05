@@ -2,6 +2,8 @@
 
 This solution simulates Olivia's storefront - tiTAN the Sew. The concept of the site is to simulate a day at the store, with inputs (both limited at 2000 for simplicity) for the number of customers in line as well as the number on the wait list. For each day that is simulated, Olivia can see the store metrics - how many customers were served, and how much income was generated. Below the stats are the store's logs, which show the customers coming into the store, leaving, and how much money was spent for the current simulated day.
 
+To access the static site, please see: https://effortless-zabaione-02519f.netlify.app/
+
 ## App.vue
 
 The `App.vue` file contains most of the logic for the solution. The structure of the file is as follows:
